@@ -89,7 +89,7 @@ while True:
 
 
     pygame.display.update()
-    clock.tick(50000)
+    clock.tick(50000)          # I just chose an arbitrarily large number to ensure maximum frame rate
 
 
 
