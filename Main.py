@@ -13,7 +13,7 @@ pygame.display.set_caption("Drawing")
 clock = pygame.time.Clock()
 screen.fill((0, 0, 0))
 
-a = 0
+a = 2
 fullscreen = False
 Erase = False
 color = (255, 200, 200)
